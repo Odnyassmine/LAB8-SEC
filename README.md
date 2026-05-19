@@ -104,7 +104,7 @@ cartographier assets exposés
 recenser technologies utilisées
 
 
-<img ![Diva](./3lab8.png)>
+ ![Diva](./3lab8.png)
 
 2. Yaazhini
 
@@ -118,12 +118,12 @@ relever configurations à risque
 
 
 
-<img ![Yaazhini](./2lab8.png) />
+ ![Yaazhini](./2lab8.png) 
 
 3- diva sur emulateur
 
 
-<img ![BeVigil](./lab1.png)>
+ ![BeVigil](./lab1.png)
 
 📚 Références sécurité
 
