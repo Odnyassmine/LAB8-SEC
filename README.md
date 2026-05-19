@@ -104,7 +104,7 @@ cartographier assets exposés
 recenser technologies utilisées
 
 
-<img width="1915" height="972" alt="3lab8" src="https://github.com/user-attachments/assets/8bc778c0-7615-482c-88ad-d72a8c73c038" />
+<img ![BeVigil Screenshot](1.1lab8.png) />
 
 2. Yaazhini
 
