@@ -39,7 +39,7 @@ Utilisé pour :
 - cartographier assets exposés
 - recenser technologies utilisées
 
-![BeVigil](./lab1.png)
+![Diva](./3lab8.png)
 
 ---
 
@@ -57,4 +57,4 @@ Utilisé pour :
 
 ### 3. Diva sur émulateur
 
-![Diva](./3lab8.png)
+![BeVigil](./lab1.png)
