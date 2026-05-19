@@ -104,7 +104,7 @@ cartographier assets exposés
 recenser technologies utilisées
 
 
-<img src="./1.1lab8.png" width="800">
+<img ![Diva](./3lab8.png)>
 
 2. Yaazhini
 
@@ -118,12 +118,12 @@ relever configurations à risque
 
 
 
-<img width="867" height="435" alt="2lab8" src="https://github.com/user-attachments/assets/4c50a6c3-4fab-45e0-84fd-36738f93ae9b" />
+<img ![Yaazhini](./2lab8.png) />
 
 3- diva sur emulateur
 
 
-<img width="416" height="758" alt="1 1lab8" src="https://github.com/user-attachments/assets/d52d0dd5-c63d-4570-86d4-b3f282c57e44" />
+<img ![BeVigil](./lab1.png)>
 
 📚 Références sécurité
 
