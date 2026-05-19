@@ -117,8 +117,7 @@ détecter composants exposés
 relever configurations à risque
 
 
-
- ![Yaazhini](./2lab8.png) 
+![Yaazhini](https://raw.githubusercontent.com/Odnyassmine/YOUR-REPO-NAME/main/2lab8.png)
 
 3- diva sur emulateur
 
