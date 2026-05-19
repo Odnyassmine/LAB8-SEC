@@ -104,7 +104,7 @@ cartographier assets exposés
 recenser technologies utilisées
 
 
-<img ![BeVigil Screenshot](1.1lab8.png) />
+<img src="./1.1lab8.png" width="800">
 
 2. Yaazhini
 
